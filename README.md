@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/edudelpozo/Learning.AzDOPipelines/_apis/build/status/edudelpozo.pipelines-java?branchName=master)](https://dev.azure.com/edudelpozo/Learning.AzDOPipelines/_build/latest?definitionId=38&branchName=master)
 
 # Contributing
 
